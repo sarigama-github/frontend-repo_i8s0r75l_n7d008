@@ -1,0 +1,13 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 218 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.9.96:3000/
+1:53:27 AM [vite] Pre-transform error: Failed to resolve import "chart.js/auto" from "src/components/AnalyticsReminders.jsx". Does the file exist?
+1:53:28 AM [vite] ✨ new dependencies optimized: @splinetool/react-spline, lucide-react
+1:53:28 AM [vite] ✨ optimized dependencies changed. reloading
+1:53:28 AM [vite] Pre-transform error: Failed to resolve import "chart.js/auto" from "src/components/AnalyticsReminders.jsx". Does the file exist?
